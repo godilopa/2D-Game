@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<levels>
+
+	<level1 name = "Destroy them all" numberGoal = "15"/>
+	<level2 name = "Resist" numberGoal = "30"/>
+	<level3 name = "Destroy the final boss" numberGoal = "10"/>
+	
+</levels>
